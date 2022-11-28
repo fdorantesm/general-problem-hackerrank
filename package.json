@@ -1,0 +1,27 @@
+{
+  "name": "general-problem-hackerrank",
+  "version": "1.0.0",
+  "description": "A general hacker rank problem",
+  "author": {
+    "name": "Fernando Dorantes",
+    "email": "fernando@dorant.es",
+    "url": "https://dorant.es"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdorantesm/general-problem-hackerrank.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.2.3",
+    "@types/node": "^18.11.9",
+    "jest": "^29.3.1",
+    "ts-jest": "^29.0.3",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.3"
+  },
+  "license": "MIT"
+}
